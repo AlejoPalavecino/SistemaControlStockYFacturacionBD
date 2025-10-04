@@ -1,0 +1,5 @@
+{
+  "name": "ARCA Stock & Invoicing Dashboard VA",
+  "description": "A simple dashboard interface for a stock and invoicing system, providing clear navigation to main sections like Invoicing, Stock Control, Clients, and Suppliers.",
+  "requestFramePermissions": []
+}
